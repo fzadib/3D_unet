@@ -4,6 +4,9 @@ pytorch :
       https://github.com/ellisdg/3DUnetCNN
       on papaer :https://link.springer.com/chapter/10.1007%2F978-3-030-72087-2_4
       
+     2.This repository implements pytorch version of the modifed 3D U-Net from Fabian Isensee et al. participating in BraTS2017
+      https://github.com/pykao/Modified-3D-UNet-Pytorch
+      
       
       
 keras and tensorflow:
