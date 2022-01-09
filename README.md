@@ -16,6 +16,9 @@ keras and tensorflow:
            
                 3.3D Unet biomedical segmentation model powered by tensorpack with fast io speed
                   https://github.com/tkuanlun350/3DUnet-Tensorflow-Brats18 
+                  
+      4.Brain tumor segmentation using a 3D UNet CNN https://github.com/Jack-Etheredge/Brain-Tumor-Segmentation-3D-UNet-CNN
+       on paper https://link.springer.com/chapter/10.1007/978-3-319-75238-9_25 
               
       
       
