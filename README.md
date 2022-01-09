@@ -6,7 +6,6 @@ pytorch :
       
       
 keras and tensorflow:
-     
      1.https://github.com/NifTK/NiftyNet/tree/dev/demos/BRATS17 
        on paper https://link.springer.com/chapter/10.1007/978-3-319-75238-9_16
        
